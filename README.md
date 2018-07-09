@@ -1,2 +1,2 @@
 # ghdemo
-Demo repo for teaching
+This is a demo repo used to teach some GitHub functionality.
