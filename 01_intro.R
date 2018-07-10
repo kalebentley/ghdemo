@@ -8,4 +8,6 @@ b <- 0
 a + b
 
 ## This fails
-a / b
+## MDS: that's b/c you cant divide by zero
+## a / b
+a * b
