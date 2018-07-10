@@ -11,3 +11,6 @@ a + b
 ## MDS: that's b/c you cant divide by zero
 ## a / b
 a * b
+
+#I prefer subtraction
+a-b
